@@ -1,15 +1,15 @@
 # Project
 Main'Terprète is an open-source project imagined by 5 Data Science students:
 
-* [Delphine CESAR] (https://www.linkedin.com/in/delphinecesar/) 
+* Delphine CESAR https://www.linkedin.com/in/delphinecesar/
 
-* [Dalanda DIALLO] (linkedin.com/in/mdalanda-diallo/) 
+* Dalanda DIALLO https://www.linkedin.com/in/mdalanda-diallo/ 
 
-* [Djalil DJEBALI] (linkedin.com/in/djalil-djebali/) 
+* Djalil DJEBALI https://www.linkedin.com/in/djalil-djebali/
 
-* [Céline MARTINEAU] (linkedin.com/in/cnmartineau)
+* Céline MARTINEAU https://www.linkedin.com/in/cnmartineau
 
-* [Bastien MONIN] (linkedin.com/in/bastien-monin/) 
+* Bastien MONIN https://www.linkedin.com/in/bastien-monin/
 
 
 Main'Terprète allows users to upload a video of someone signing a word and get the translation in return.
