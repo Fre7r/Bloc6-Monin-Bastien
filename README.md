@@ -1,7 +1,7 @@
 # Project
 Main'Terprète is an open-source project imagined by 5 Data Science students:
 
-* Delphine CESAR linkedin.com/in/delphinecesar/ ![image](https://github.com/delphinecesar/mainterprete/assets/123547462/071cb8e2-fdba-4dfd-b849-5dec61b36b7f)
+* Delphine CESAR linkedin.com/in/delphinecesar/ 
 
 * Dalanda DIALLO linkedin.com/in/mdalanda-diallo/ ![image](https://github.com/delphinecesar/mainterprete/assets/123547462/55ba1662-9d14-44f6-9065-ade0432ec0a2)
 
