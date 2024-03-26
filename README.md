@@ -1,6 +1,6 @@
-# https://share.vidyard.com/watch/gqMa47VMF7sCDQqWArK5WB?
+# Link to presentation (French audio): https://share.vidyard.com/watch/gqMa47VMF7sCDQqWArK5WB?
 
-# https://mainterprete.herokuapp.com/
+# Link to app : https://mainterprete.herokuapp.com/
 
 
 # Project
